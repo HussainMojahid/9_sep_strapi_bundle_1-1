@@ -1,0 +1,7 @@
+descriptorVersion: "v4" 
+code: ent-prj-strapi-test-5
+description: Template for ent projects 5
+components:
+  plugins:
+    - plugins/entando-strapi-plugin.yaml
+
